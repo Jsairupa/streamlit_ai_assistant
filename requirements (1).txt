@@ -7,3 +7,6 @@ seaborn==0.12.2
 streamlit-lottie==0.0.5
 requests==2.29.0
 
+streamlit
+pandas
+streamlit-lottie
